@@ -1,0 +1,28 @@
+# Archivos y carpetas que Unity regenera automáticamente
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# Visual Studio / Rider
+.vs/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.suo
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales de Unity
+MemoryCaptures/
+*.pidb
+*.pdb
+
+# Otros
+/[Aa]ssets/AssetStoreTools*
